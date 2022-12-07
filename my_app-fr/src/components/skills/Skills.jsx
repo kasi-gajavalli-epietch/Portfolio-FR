@@ -6,10 +6,10 @@ const Skills = () => {
   return (
 
     <section className="skills-container section" id="skills">
-      <h2 className="section__title">Skills</h2>
+      <h2 className="section__title">Compétences</h2>
       <div className="container skills__container" id="skills">
         <div className="skills__frontend">
-          <h3>Front-end Development</h3>
+          <h3>Front-end</h3>
           <div className="skills__content">
           <article className="skills__details">
           <BsFillPatchCheckFill className="experience__details-icon" />
@@ -37,7 +37,7 @@ const Skills = () => {
           </div>
         </div>
         <div className="skills__backend">
-          <h3>Back-end Development</h3>
+          <h3>Back-end</h3>
           <div className="skills__content">
             <article className="skills__details">
             <i className="fa-regular fa-badge-check"></i>

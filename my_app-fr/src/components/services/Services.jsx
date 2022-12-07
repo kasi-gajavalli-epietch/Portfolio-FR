@@ -10,21 +10,21 @@ const data = [
       image: Image1,
       title: "UI/UX design",
       description:
-        "Build interactive, animated and userfriendly interfaces for your application and websites",
+        "Créez des interfaces interactives, animées et conviviales pour vos applications et sites web.",
     },
     {
       id: 2,
       image: Image2,
       title: "Web Development",
       description:
-        "Market your products and services through web. Can also also the analytics for site, services and products ",
+        "Commercialisez vos produits et services sur le web. Peut aussi analyser le site, les services et les produits.",
     },
     {
       id: 3,
       image: Image3,
       title: "App Development",
       description:
-        "Can build applications based on clients inputs that can manage and handle tasks with ease.",
+        "Peut construire des applications basées sur les entrées des clients qui peuvent gérer et traiter les tâches avec facilité.",
     },
   ];
 

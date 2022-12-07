@@ -11,14 +11,14 @@ const Home = () => {
       <div className="intro">
         <img src={Me} alt="" className="home__img" />
         <h1 className="home__name">Kasi GAJAVALLI</h1>
-        <span className="home__education">Web Developer</span>
+        <span className="home__education">Développeur Web</span>
 
         <HeaderSocials />
 
         
         <div className="header-link">
-          <a href="#contact" className="btn">Let's Talk</a>
-          <a href={CV} download className="btn">Download CV</a>
+          <a href="#contact" className="btn">Parlons-en</a>
+          <a href={CV} download className="btn">Télécharger CV</a>
         </div>
 
        

@@ -5,7 +5,7 @@ import Card from "./EdCard";
 const Education = () => {
   return (
     <section className="resume container section" id="Education">
-        <h2 className="section__title">Education</h2>
+        <h2 className="section__title">Éducation</h2>
 
         <div className="resume__container grid">
           <div className="timeline grid">

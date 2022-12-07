@@ -22,7 +22,7 @@ const Menu = [
       Techno: "Vue.js & Nest",
       github: "https://github.com/kasi-gajavalli-epietch/Concert-Tickets",
       demo:"http://46.105.29.192:8080/",
-      desc: "Ticket reservation system",
+      desc: "Système de réservation de billets",
     },
     {
       id: 2,
@@ -32,7 +32,7 @@ const Menu = [
       Techno:"Laravel & Vue.js",
       github: "https://github.com/kasi-gajavalli-epietch/Yowl",
       demo:"https://github.com/kasi-gajavalli-epietch/Yowl",
-      desc:"Social Media Application",
+      desc:"Application médias sociaux",
     },
     {
       id: 3,
@@ -42,7 +42,7 @@ const Menu = [
       Techno:"PhP",
       github: "https://github.com/kasi-gajavalli-epietch/Freeads",
       demo:"https://github.com/kasi-gajavalli-epietch/Freeads",
-      desc:"E-commerce site",
+      desc:"Site de commerce électronique",
     },
     
     {
@@ -53,7 +53,7 @@ const Menu = [
       Techno:"Vue.js",
       github: "https://github.com/kasi-gajavalli-epietch/Trello-clone",
       demo:"https://github.com/kasi-gajavalli-epietch/Trello-clone",
-      desc:" A trello clone created with Vue.js",
+      desc:"Un clone de Trello créé avec Vue.js",
     },
     
     {
@@ -63,7 +63,7 @@ const Menu = [
       category: "Marketing",
       github: "https://github.com/kasi-gajavalli-epietch/ARK-Hospital",
       demo:"https://arkhealthcare.co.in/",
-      desc:"Project for Hospital Client",
+      desc:"Projet pour un client hospitalier",
     },
     
     {
@@ -74,7 +74,7 @@ const Menu = [
       Techno:"",
       github: "",
       demo:"https://digitalphy.com/",
-      desc:"Ongoing: Website for SEO agency",
+      desc:"En cours : Site web pour l'agence de référencement",
     },
    
     {
@@ -85,7 +85,7 @@ const Menu = [
       Techno:"React.js",
       github: "https://github.com/kasi-gajavalli-epietch/Portfolio",
       demo:"https://github.com/kasi-gajavalli-epietch/Portfolio",
-      desc:"Personal Portfolio site",
+      desc:"Site de portefeuille personnel",
     },
     {
       id: 8,
@@ -95,7 +95,7 @@ const Menu = [
       Techno:"Python",
       github: "https://github.com/kasi-gajavalli-epietch/Scientific-Calculator",
       demo:"https://github.com/kasi-gajavalli-epietch/Scientific-Calculator",
-      desc:"Calculator with speech recognisition",
+      desc:"Calculatrice avec reconnaissance de la parole",
     },
     {
       id: 9,
@@ -105,7 +105,7 @@ const Menu = [
       Techno:"Python/Data/Calphad",
       github: "https://github.com/kasi-gajavalli/openIEC_with_OC/blob/master/openiec_with_OC/README.md",
       demo:"https://www.sciencedirect.com/science/article/abs/pii/S0022311522004214",
-      desc:"Data Analysis for core nuclear materials",
+      desc:"Analyse des données pour les matières nucléaires de base",
     },
     {
       id: 10,
@@ -115,7 +115,7 @@ const Menu = [
       Techno:"Excel/Data/Calphad",
       github: "https://github.com/kasi-gajavalli/openIEC_with_OC/blob/master/openiec_with_OC/README.md",
       demo:"https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=EnXnjWwAAAAJ&citation_for_view=EnXnjWwAAAAJ:UeHWp8X0CEIC",
-      desc:"Phase diagram modeling for control rod",
+      desc:"Modélisation du diagramme de phase d'une barre de contrôle",
     },
     {
       id: 11,
@@ -125,7 +125,7 @@ const Menu = [
       Techno:"Thermal Analysis/Calphad",
       Github: "https://www.researchgate.net/publication/332267699_Determination_of_solution_enthalpy_of_zirconium_in_liquid_aluminum",
       demo:"https://link.springer.com/article/10.1007/s10973-018-7442-1",
-      desc:"Phase diagram modeling for control rod",
+      desc:"Modélisation du diagramme de phase d'une barre de contrôle",
     },
     {
       id: 12,
@@ -135,7 +135,7 @@ const Menu = [
       Techno:"Thermal Analysis",
       Github: "https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=EnXnjWwAAAAJ&citation_for_view=EnXnjWwAAAAJ:9yKSN-GCB0IC",
       demo:"https://www.sciencedirect.com/science/article/abs/pii/S0021961418310711",
-      desc:"Phase diagram modelling for reactor core materials",
+      desc:"Modélisation du diagramme de phase des matériaux du cœur du réacteur",
     },
     {
       id: 13,
@@ -145,7 +145,7 @@ const Menu = [
       Techno:"React.js",
       Github: "https://github.com/kasi-gajavalli-epietch/DashBoard-React",
       demo:"https://github.com/kasi-gajavalli-epietch/DashBoard-React",
-      desc:"A dashboard with wodgets and services",
+      desc:"Un tableau de bord avec des widgets et des services",
     },
     {
       id: 14,
@@ -155,7 +155,7 @@ const Menu = [
       Techno:"Vue.js",
       Github: "https://github.com/kasi-gajavalli-epietch/Post-Its",
       demo:"https://github.com/kasi-gajavalli-epietch/Post-Its",
-      desc:"A sticky note inspired application",
+      desc:"Une application inspirée des notes autocollantes",
     },
 
   ];

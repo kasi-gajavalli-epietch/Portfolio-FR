@@ -7,17 +7,17 @@ import CV from "../../assests/Kasi_GAJAVALLI_CV.pdf";
 const About = () => {
   return (
     <section className="about container section" id="about">
-      <h2 className="section__title">About Me</h2>
+      <h2 className="section__title">À Propos de Moi</h2>
 
       <div className="about__container grid">
         <img src={Image} alt="" className="about__img" />
         <div className="about__data grid">
           <div className="about__info">
-            <p className="about__description">I am Kasi GAJAVALLI, web developer from Marseille, France. 
-            I have a initial experience in web development and also worked as a developer during my work years as a research engineer.
-            In the recent past, I also built websites for small enterprises.</p>
+            <p className="about__description">Je suis Kasi GAJAVALLI, développeur web de Marseille, France. 
+            J'ai une première expérience dans le développement web et j'ai également travaillé comme développeur pendant mes années de travail en tant qu'ingénieur de recherche.
+            Dans un passé récent, j'ai également construit des sites web pour des petites entreprises.</p>
             {/*eslint-disable-next-line*/}
-            <a href={CV} className="btn">Download CV</a>
+            <a href={CV} className="btn">Télécharger CV</a>
           </div>
          {/*<div className="about__skills grid">
             <div className="skills__data">

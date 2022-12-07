@@ -28,11 +28,11 @@ const Contact = () => {
   };
   return (
     <section className="contact container section" id="contact">
-      <h2 className="section__title">Get In Touch</h2>
+      <h2 className="section__title">Prenez contact</h2>
       <div className="contact__container-grid">
         <div className="contact__info">
-        <h3 className="contact__title">You can write a mail as well!</h3>
-            <p className="contact__details"><a href="mailto:kasi.gajavalli@gmail.com">Send a message</a></p>
+        <h3 className="contact__title">Vous pouvez aussi écrire un courrier !</h3>
+            <p className="contact__details"><a href="mailto:kasi.gajavalli@gmail.com">Envoyer un message</a></p>
         </div>
         <form className="contact__form" ref={formRef} onSubmit={handleSubmit}>
           <div className="contact__form-group">
@@ -49,8 +49,8 @@ const Contact = () => {
           <div className="contact__form-div contact__form-area">
             <textarea className="contact__form-input" placeholder="Your message" cols="30" rows="10" name="message" required> </textarea>
           </div>
-          <button type="submit" className="btn">Send Message</button>
-          {message && <span>Thanks, I'll reply ASAP :)</span>}
+          <button type="submit" className="btn">Envoyer</button>
+          {message && <span>Merci, je répondrai dès que possible :)</span>}
         </form>
       </div>
     </section>

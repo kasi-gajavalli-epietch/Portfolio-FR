@@ -3,8 +3,8 @@ const EdData = [
       id: 1,
       category: "education",
       icon: "icon-graduation",
-      year: "06/2022 - present",
-      title: "Web Development & Integration",
+      year: "06/2022 - actuel",
+      title: "Développement et intégration du Web",
       desc: "Epitech - Marseille",
     },
     {
@@ -12,8 +12,8 @@ const EdData = [
       category: "education",
       icon: "icon-graduation",
       year: "10/2015 - 03/2019",
-      title: "PhD. Condensed Matter Physics",
-      desc: "Aix Marseille University, Marseille",
+      title: "PhD. Physique de la matière condensée",
+      desc: "Aix Marseille Université, Marseille",
     },
     {
       id: 3,
