@@ -1,0 +1,73 @@
+const Data = [
+    {
+      id: 1,
+      category: "education",
+      icon: "icon-graduation",
+      year: "06/2022 - present",
+      title: "Web Development & Integration",
+      desc: "Epitech - Marseille",
+    },
+    {
+      id: 2,
+      category: "education",
+      icon: "icon-graduation",
+      year: "10/2015 - 03/2019",
+      title: "PhD. Condensed Matter Physics",
+      desc: "Aix Marseille University, Marseille",
+    },
+    {
+      id: 3,
+      category: "education",
+      icon: "icon-graduation",
+      year: "06/2013 - 07/2015",
+      title: "MSc Sustainable Nuclear Energy, Application & Management",
+      desc: "Ecole de Mines de Nantes, Nantes",
+    },
+    {
+      id: 4,
+      category: "education",
+      icon: "icon-graduation",
+      year: "06/2009 - 05/2013",
+      title: "Bachelor- Mechanical Engineering",
+      desc: "SCSVMV University, Kanchipuram, India",
+    },
+
+    {
+      id: 5,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "10/2021 - 05/2022",
+      title: "Jr. Web Developper- Private Consultant",
+      place: "Digitalphy, Benagaluru , India.",
+      desc: "Develop websites, explore technologies for enterprises and understand the bussiness.",
+    },
+    {
+      id: 6,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "01/2020 - 03/2021",
+      title: "Research Engineer - Developper",
+      place: "CEA Cadarache, France.",
+      desc: "Develop statistical models, integrate codes using tools, data analysis with python, data modeling with OpenCalphad.",
+    },
+    {
+      id: 7,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2009 - 2013",
+      title: "Research Engineer-Incharge of Project Affairs ",
+      place: "CEA Cadarache, France.",
+      desc: "Develop new experimental protocols, measure and refine data from experiments and literature, analyze and model data with python, excel and Calphad.",
+    },
+    {
+      id: 8,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2009 - 2013",
+      title: "M2 Internship-Developper ",
+      place: "Areva-CEA Marcoule, France.",
+      desc: "FEM Code development and benchmarking, data modeling to simulate the effects of stress using molecular dynamics.",
+    },
+  ];
+
+export default Data
